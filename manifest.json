@@ -1,0 +1,14 @@
+{
+  "name": "Mo'min — Kun tartibi",
+  "short_name": "Mo'min",
+  "description": "Ahd yo'lidagi intizom, ibodat va bilim platformasi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0F1E",
+  "theme_color": "#0A0F1E",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
